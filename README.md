@@ -5,7 +5,7 @@
 📫 Reach me at: arkankhan051@gmail.com
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arkan-khan)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/arkan-khan-4b97a32b9/)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/khan__arkan786/)  
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](http://x.com/arkan__khan_)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arkankhan051@gmail.com)
